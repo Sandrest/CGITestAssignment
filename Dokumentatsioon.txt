@@ -1,0 +1,7 @@
+Dokumentatsioon
+
+Kõige raskem oli proovitöö juures ASP.NET MVC tundma õppimine, kuna polnud varasemat kokkupuudet.Samas oli ülesanne huvitav ja kindlasti on plaanis ASP.NETiga põhjalikumalt tutvuda. Esmase kokkupuute tõttu kulus ülesande peale üllatavalt palju aega- u 7 tundi.
+Koodis on kasutatud juppe erinevatest Microsofti tutorialitest ja harjutusülesannetest.
+
+
+
